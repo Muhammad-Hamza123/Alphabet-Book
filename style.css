@@ -1,0 +1,13 @@
+.Alphabets a{ text-decoration: none; color: white; }
+.Alphabets a:hover{  color: red;}
+.main{ margin: 0%; padding: 0%; }
+.header{ width: 100%;   text-align:center; font-size: 50px; color: beige; 
+       background-color: black;    font-family:'Times New Roman', Times, serif; }
+
+.abcd a{  color:chartreuse; text-decoration: none; padding: 2px; }
+.abcd a:hover{ color: yellow;}
+
+
+.picture{  margin: 0px 100px; display: inline-block; float: right; }
+ { margin: ;}
+.for{ font-size: 70px; margin: 0px 80px; display: inline-block; color: rgb(95, 76, 12); float: left;}
